@@ -1,0 +1,50 @@
+[
+    {
+        "id": "soothify",
+        "title": "Soothify: LLM Based RAG system for Mental Health Support",
+        "year": "Jan. 2025 - Feb. 2025",
+        "location": "LLM",
+        "demo": "",
+        "github": "https://github.com/Billa-Man/soothify",
+        "tags": ["Python", "Hume AI", "ChatGPT API", "Hugging Face", "Streamlit.io"],
+        "description": "Developed mental health support LLM-based model that integrates Hume AI and ChatGPT to assess panic attack severity via voice-to-chat interactions, offering calming techniques or directing to nearby professionals.",
+        "image": "/assets/featured-projects/soothify.webp",
+        "jpg": "/assets/featured-projects/soothify.jpeg"
+    },
+    {
+        "id": "airbnb",
+        "title": "Airbnb Recommendation System Using GPT-2 and RAG",
+        "year": "Nov. 2024 - Dec. 2024",
+        "location": "Recommendation System",
+        "demo": "",
+        "github": "https://github.com/theomthakur/Airbnb-Recommendation-System-Using-GPT-2-and-RAG",
+        "tags": ["Python", "Hugging Face", "NLTK", "spaCy", "Seaborn", "Plotly"],
+        "description": "Enhanced recommendation accuracy by developing a hotel recommendation system using GPT-2 and Hugging Face Transformers, applying prompt engineering and fine-tuning on LLMs to improve response relevance and personalization.",
+        "image": "/assets/featured-projects/airbnb.webp",
+        "jpg": "/assets/featured-projects/airbnb.jpeg"
+    },
+    {
+        "id": "quantdash",
+        "title": "QuantDash: Full-Stack Finance Analytics Dashboard with ML Predictions",
+        "year": "Sep. 2024 - Oct. 2024",
+        "location": "Full-Stack",
+        "demo": "",
+        "github": "https://github.com/theomthakur/QuantDash",
+        "tags": ["React.js", "Node.js", "Express.js", "TypeScript", "Regression.js"],
+        "description": "Built a full-stack financial analytics dashboard using the MERN stack, enabling financial data visualization and performance tracking, by displaying 6+ interactive charts using Chart.js to display key financial metrics and KPIs.",
+        "image": "/assets/featured-projects/quantdash.webp",
+        "jpg": "/assets/featured-projects/quantdash.jpeg"
+    },
+    {
+        "id": "lpds",
+        "title": "License Plate Detection System Using YOLOv11",
+        "year": "June 2024 - July 2024",
+        "location": "Computer Vision",
+        "demo": "",
+        "github": "https://github.com/theomthakur/Vehicle-Plate-Detection-using-YOLO11",
+        "tags": ["Python", "PyTorch", "Ultralytics", "OpenCV", "scikit-learn", "PIL"],
+        "description": "This project implements a comprehensive cryptocurrency analysis platform that processes and visualizes market data for thousands of cryptocurrencies. ",
+        "image": "/assets/featured-projects/yolo11.webp",
+        "jpg": "/assets/featured-projects/yolo11.jpeg"
+    }
+]

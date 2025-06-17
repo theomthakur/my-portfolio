@@ -1,0 +1,115 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "New York University",
+            "degree": "Master of Science in Computer Engineering",
+            "duration": "May 2026",
+            "content": [
+                "GPA: 3.94/4",
+                "Courses: Machine Learning, Deep Learning, MLOPS, Big Data, Computing Systems Architecture, Real-Time Embedded Systems"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Vishwakarma Institute of Technology",
+            "degree": "Bachelors in Computer Engineering",
+            "duration": "May 2023",
+            "content": [
+                "GPA: 8.86/10",
+                "Courses: Data Structures and Algorithms, OOPS, Software Engineering, Computer Networks, Artificial Intelligence, Database Management Systems, Computer Architecture and Operating Systems, Web Technologies, Compiler Design, Design and Analysis of Algorithms, Cloud Computing, Data Science"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "NYU Langone Health",
+            "position": "Research Intern",
+            "duration": "May 2025 - Present",
+            "description": [
+                "Initiated research at the intersection of AI and xenotransplantation, focusing on exploring machine learning techniques to support advancements in transplant immunology and organ compatibility. Currently in early-stage development and experimentation."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "4iBiz",
+            "position": "Software Developer",
+            "duration": "July 2023 - June 2024",
+            "description": [
+                "Increased user engagement by 40% by directing the development of a fitness management platform for 10,000+ users, utilizing Angular, TypeScript, and NgRx to deliver features like attendance tracking and workout planning.​",
+                "Boosted client satisfaction by 45% for 25+ clients by managing a team of 5 developers to deliver an office management solution, employing Angular and PrimeNG to build real-time analytics dashboards and resource management.",
+                "Reduced response times by 35% and ensured 99.9% application uptime by collaborating with 10+ engineers to optimize RESTful API integrations across platforms, streamlining data workflows."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "4iBiz",
+            "position": "Software Developer - Intern",
+            "duration": "July 2022 - June 2023",
+            "description": [
+                "Improved mobile usability by 60% by developing adaptive frontend modules for an education management system supporting 30+ institutions, applying React and Material UI to design reusable components.​",
+                "Accelerated page load speed by 50% by architecting and deploying the frontend for a corporate wellness platform adopted by 20+ companies, leveraging React, Bootstrap, and modular MVC frameworks for activity tracking and reward systems.",
+                "Streamlined frontend performance, slashing initial load time by 40% by standardizing architecture with reusable components and lazy loading while refining API integration workflows using Postman for testing and debugging."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "Python",
+                "C++",
+                "Java",
+                "SQL",
+                "Shell"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Angular 11", "Next.js", "Node.js", "Redux", "NGXS", "HTML/CSS"]
+        },
+         {
+            "title": "Libraries",
+            "tools": [
+                "TensorFlow",
+                "Keras",
+                "Scikit-learn",
+                "Numpy",
+                "Pandas",
+                "Matplotlib",
+                "OpenCV",
+                "YOLO",
+                "Hugging Face",
+                "NLTK",
+                "Plotly",
+                "Seaborn",
+                "Recharts",
+                "Chart.js",
+                "Tableau"
+            ]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "MySQL", "Firebase"]
+        },
+        {
+            "title": "Developer Tools",
+            "tools": ["Git", "Agile (Scrum)", "MVC", "Docker", "Kubernetes", "GitHub Actions", "AWS", "Postman", "Jira"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "",
+            "title": "",
+            "link": ""
+        },
+        {
+            "id": "",
+            "title": "",
+            "link": ""
+        }
+    ]
+}

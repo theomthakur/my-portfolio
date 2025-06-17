@@ -1,0 +1,30 @@
+{
+    "name": "Om Thakur",
+    "logoType": {
+        "mobile": "OT",
+        "desktop": "Om Thakur"
+    },
+    "mainPicture": "/assets/main.jpg",
+    "mainPictureJPG": "/assets/main.jpg",
+    "pronunciation": "/om-tha-kur/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "ot",
+    "email": "ot2131@nyu.edu",
+    "linkedin": "https://www.linkedin.com/in/theomthakur/",
+    "github": "https://github.com/theomthakur",
+    "resume": "https://drive.google.com/file/d/1X4AqRolBNr3Sh4_gUhO01NqJ8N2lkPYq/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/theomthakur/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/theomthakur"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:ot2131@nyu.edu"
+        }
+    ]
+}
